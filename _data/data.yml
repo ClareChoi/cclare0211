@@ -29,26 +29,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -97,25 +77,25 @@ experiences:
 projects:
     title: Projects
     assignments:
-      - title: Velocity
+      - title: Bothwell-Accurate App
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "App development to display and explain roof satellite photos and deficiency points."
 
-      - title: DevStudio
+      - title: Restaurant App in React Native
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "App for ordering restaurant menus."
 
-      - title: Tempo
+      - title: Parking location saving App in Android
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An app that stores parking locations and shows routes to get there."
 
-      - title: Atom
+      - title: Parking location saving App in IOS
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "An app that stores parking locations and shows routes to get there."
 
-      - title: Delta
+      - title: Galgol Homepage
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "System design, development and maintenance that can be divided and sent to several places when ordering products."
 skills:
     title: Skills &amp; Proficiency
 
