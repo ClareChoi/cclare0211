@@ -18,6 +18,8 @@ sidebar:
     linkedin: cclare0211
     xing: 
     github: cclare0211
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: 
@@ -50,75 +52,50 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A detail-oriented, methodical, professional and self-motivated Mobile application Developer.
-      Working on technologies Java, Swift, Swift UI, HTML, CSS, JavaScript, React Native, MySQL.
+      I am currently working as a web consultant in Galgol, and I have attained app development skills on IOS and
+      Android in Java, Swift, React Native, as I developed various projects with local database, Firestore, network
+      REST API, location services. I have experience on multiple projects as a CTI developer, worked at SKTelecom for
+      KM system management and service, and also worked for the CSR team to improve the brand image. I am constantly
+      educated to keep up with the rapid pace of development in the IT field ,including postgraduate courses in
+      mobile application development. IOS, Android project is in progress.
 education:
-    - degree: Computer Software Engineering — Bachelor of Engineering
+    - degree: Postgraduate in Mobile Application Development and Strategy
+      university: George Brown
+      time: 2020 - 2021
+      details: |
+          - Studied Android Development with Java, implementing data persistence (Room, Firebase), location services (Google Maps), network connectivity (REST API), camera, created a project Parking App using Android Jetpack architecture components and Git.
+          - Studied IOS Development with SWIFT and SWIFT UI, implementing data persistence (Core Data, Firebase), location services (Apple CoreLocation and MapKit Framework), network connectivity (RESTful web service), audio/video player (AVFoundation Framework), WatchOS, created a project Parking App.
+          - Studied Web Development with HTML, CSS, JavaScript.
+          - Studied native mobile application with React Native.
+    - degree: BEc in Computer Software Engineering
       university: Kyung Hee University
-      time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Marketing and Ecommerce Site Consultant
+      time: 2016 - Present
+      company: Galgol Inc
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Analyzed and planned the entire service application architecture.
+          - Developed and implemented Process management system to improve work performance. Managed the process of online sales, call center and packing which improved communication between tasks and work efficiency. Integrated Call Center, Store sales and Web services into one system.
+          - Improved website performance by investigating and validating the various ecommerce solutions (e.g. Shopify like service in Korean) which helped ensure stable system environment.
+          - Implemented and tested the responsive web (Hybrid) site framework, business logic and dynamic rules into the system.
+          - Site URL: www.galgol-sanja.com
+    - role: Enterprise Program Strategist
+      time: 2000 - 2006
+      company: SK Telecom | Seoul, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Defined, led and implemented enterprise program strategy and roadmap
+          - Improved brand image across multiple layers of customer groups
+          - Managed internal resources and vendors partners.
+          - Programs: KM (Knowledge Management) System, IDC, Internet line Leased business, CSR (Corporate Social Responsibility) Services.
+    - role: Program Developer
+      time: 1997 - 1999
+      company: Dongbu Hightec | Seoul, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Developed CTI Call Center in Kangwon Bank, First Finance, Tongyang Insurance, Nonghyup Bank etc.
+          - Using WindowsNT, Unix with Visual Basic, Unix C, Dialogic Board Omnivox Tool for CTI Gateway between PBX, Database, Agent Screen.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
@@ -139,50 +116,30 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Swift
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Swift UI
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Java
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: JavaScript
+        level: 90%
+
+      - name: React Native
+        level: 90%
+        
+      - name: MySQL
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://" target="_blank" rel="nofollow">Clare Choi</a>
