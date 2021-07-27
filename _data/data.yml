@@ -29,26 +29,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    languages:
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
-
-    interests:
-      - item: 
-        link:
-
-      - item: 
-        link:
-
-      - item: 
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
